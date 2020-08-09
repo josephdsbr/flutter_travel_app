@@ -7,9 +7,9 @@ Travel is a application focused on Hotels' renting. Its purpose is to connect pe
 </p>
 
 <div align="center">
-    <img style="margin: 15px" src="./github/images/20200808_142930.gif" alt="mobile" height="425" />
-    <img style="margin: 15px" src="./github/images/20200808_193120.gif" alt="mobile" height="425" />
-    <img style="margin: 15px" src="./github/images/20200808_193532.gif" alt="mobile" height="425" />
+    <img style="margin: 0 15px !important" src="./github/images/20200808_142930.gif" alt="mobile" height="425" />
+    <img style="margin: 0 15px !important" src="./github/images/20200808_193120.gif" alt="mobile" height="425" />
+    <img style="margin: 0 15px !important" src="./github/images/20200808_193532.gif" alt="mobile" height="425" />
 </div>
 
 ## Tutorial
