@@ -1,16 +1,31 @@
-# travelAppFlutter
+<h1 align="center">
+Travel App
+</h1>
 
-A new Flutter project.
+<p align="center">
+Travel is a application focused on Hotels' renting. Its purpose is to connect people on vocation to Hotels in specifics countries.
+</p>
 
-## Getting Started
+<div align="center">
+    <img style="margin: 5px" src="./github/images/20200808_142930.gif" alt="mobile" height="425" />
+    <img style="margin: 5px" src="./github/images/20200808_193120.gif" alt="mobile" height="425" />
+    <img style="margin: 5px" src="./github/images/20200808_193532.gif" alt="mobile" height="425" />
+</div>
 
-This project is a starting point for a Flutter application.
+## Tutorial
 
-A few resources to get you started if this is your first Flutter project:
+This project was developed following the [Marcus Ng's Video](https://www.youtube.com/watch?v=CSa6Ocyog4U).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Technologies
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was developed using [Flutter](https://flutter.dev/?gclid=CjwKCAjwmrn5BRB2EiwAZgL9ogzw6Sx2_6wx_ll-kZxLhBd3VNYC01uOTK-ZgodLlX4HRXFaw9h5dxoCZ7IQAvD_BwE&gclsrc=aw.ds).
+
+## Social Media
+
+If you want to ask something, please contact me on my Social Media.
+
+* **Instagram** - [@pajebr](https://www.instagram.com/pajebr/)
+* **Linkedin** -  [josephdsbr](https://www.linkedin.com/in/josephdsbr)
+* **GitHub** - [josephdsbr](https://github.com/josephdsbr)
+
+Made with <3 by José Vinícius
